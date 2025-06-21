@@ -1,4 +1,4 @@
-# Ganti_Sounds
+# Ganti-Sounds (Minecraft 1.21.90)
 Template pack for editing Minecraft sounds.
 Click [here][1] to download.
 
