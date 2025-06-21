@@ -1,0 +1,18 @@
+{
+	"format_version": 2,
+	  "header": {
+        "description": "Template Custom Sounds",
+	    "name": "Ganti Sounds",
+	    "uuid":"22b39e7f-a9d9-4486-b6aa-28fe5c12905c",
+	    "version": [0, 0, 1],
+	    "min_engine_version": [1, 17, 0]
+	  },
+	  "modules": [
+	    {
+	      "description": "Template Custom Sounds",
+	      "type": "resources",
+	      "uuid": "2944a45d-b577-46c2-850e-1133ee541f54",
+	      "version": [0, 0, 1]
+	    }
+	  ]
+}
