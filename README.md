@@ -8,4 +8,3 @@ You're ALLOWED to download, modify and use this packs for your personal or comme
 
 Kamu BOLEH mengunduh, mengedit, dan memakai paket ini untuk penggunaan personal atau komersial.
 ## Enjoy the packs :D
-"# ganti-sounds" 
